@@ -1,28 +1,16 @@
-# 💻 Práticas em Linguagem C - Portfólio Técnico
+# Algoritmos - UEG
 
-Este repositório é um espaço pessoal dedicado ao registro de estudos, práticas de sintaxe e evolução em lógica de programação utilizando a Linguagem C. O objetivo é documentar o aprendizado em estruturas de dados e algoritmos.
+Pasta para salvar e organizar meus códigos de programação em C das aulas da faculdade (Sistemas de Informação). Uso para treinar a lógica e os comandos que o professor passa.
 
----
+## O que estou usando:
+* Linguagem C
+* Dev-C++ (na faculdade)
+* GitHub Codespaces (para rodar em casa)
 
-## 🛠️ Especificações do Ambiente de Estudo
-
-*   **Linguagem de Base:** C (Compilador GCC)
-*   **Ferramentas:** Ambientes de desenvolvimento integrado e editores baseados em nuvem.
-*   **Foco Prático:** Aplicação de fluxos condicionais, laços de repetição e manipulação de variáveis.
-
----
-
-## 🚀 Compilação de Teste
-
-Comandos genéricos para execução e verificação do comportamento lógico em terminal Linux:
+## Como rodar os códigos no terminal:
+Para compilar e testar os arquivos `.c`, uso os comandos padrão:
 
 ```bash
-# Compilação padrão via GCC
-gcc teste.c -o output_teste
-
-# Inicialização do binário gerado
-./output_teste
+gcc nome_do_arquivo.c -o programa
+./programa
 ```
-
----
-✉️ Repositório mantido para fins de documentação de aprendizado acadêmico individual e construção de base técnica para projetos futuros.
