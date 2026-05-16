@@ -1,4 +1,4 @@
-//Atividade 1
+//Atividade 2
 
 #include<stdio.h>
 #include<locale.h>
