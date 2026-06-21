@@ -1,3 +1,4 @@
+//Desenvolva um programa para ler a nota de vários alunos, enquanto não for digitada a nota igual a -1. Depois do laço, o programa deve calcular e escrever a média das notas digitadas.
 #include<stdio.h>
 #include<locale.h>
 

@@ -1,4 +1,4 @@
-//Atividade 1
+//Desenvolva um programa para ler vários números inteiros enquanto não for digitado o número 0.
 
 #include<stdio.h>
 #include<locale.h>

@@ -1,4 +1,4 @@
-//Atividade 3
+//Altere o programa do exercício 2 para mostrar também a soma dos números digitados.
 
 #include<stdio.h>
 #include<locale.h>

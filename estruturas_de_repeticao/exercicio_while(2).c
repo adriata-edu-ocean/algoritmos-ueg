@@ -1,4 +1,4 @@
-//Atividade 2
+//Altere o programa do exercício 1 para mostrar quantos números foram digitados, exceto o número 0.
 
 #include<stdio.h>
 #include<locale.h>

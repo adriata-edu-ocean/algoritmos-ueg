@@ -1,3 +1,4 @@
+//Desenvolva um programa para ler a quantidade e o preço unitário de vários produtos vendidos, enquanto não for digitado 0 na quantidade. Quando o programa sair do laço deverá calcular e escrever o total da venda.
 #include<stdio.h>
 #include<locale.h>
 
@@ -18,4 +19,5 @@ int main(){
      scanf(" %f", &Quantidade);
     }
     printf("Total da Nota: R$ %.2f", Total);
+    return 0;
 }

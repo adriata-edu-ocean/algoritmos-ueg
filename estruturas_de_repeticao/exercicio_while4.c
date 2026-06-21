@@ -1,3 +1,4 @@
+//Desenvolva um programa para calcular e escrever a soma de todos os números entre 3 e 10.
 #include<stdio.h>
 #include<locale.h>
 
