@@ -10,7 +10,7 @@ int main(){
     scanf(" %f", &Nota);
     while(Nota < 0 || Nota > 10)
      {
-     printf("\nNota inválida!");
+     printf("\nNota inválida!\n");
      printf("\nDigite sua nota da 1a VA: ");
      scanf(" %f", &Nota);
      }
