@@ -7,18 +7,13 @@ int main(){
     float Nota=0, Media=0, Soma=0;
     int Contador=0;
     
-    // O texto só aparece ESTA VEZ na tela inteira
     printf("Digite as notas ou -1 para sair:\n"); 
-    
-    // Lê a primeira nota
     scanf(" %f", &Nota);
     
     while(Nota != -1)
     {
         Soma = Soma + Nota;
-        Contador++;
-        
-        // Aqui dentro fica SÓ o scanf, sem nenhum printf!
+        Contador++;        
         scanf(" %f", &Nota); 
     }
     
