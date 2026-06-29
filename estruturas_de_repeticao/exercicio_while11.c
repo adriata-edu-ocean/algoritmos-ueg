@@ -1,4 +1,4 @@
-//Faça um programa para perguntar a nota de um aluno na 1a VA e só aceitar notas de 0 a 10, inclusive. quando for digitada a nota correta o programa deve mostrar quanto a aluno precisará tirar na 2a VA para ser aprovado.
+//Faça um programa para perguntar a nota de um aluno na 1a VA, e só aceitar notas de 0 a 10, inclusive. quando for digitada a nota correta o programa deve mostrar quanto a aluno precisará tirar na 2a VA para ser aprovado.
 #include<stdio.h>
 #include<locale.h>
 
